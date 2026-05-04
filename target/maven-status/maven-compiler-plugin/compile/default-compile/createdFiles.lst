@@ -1,0 +1,8 @@
+strategy\EstrategiaFrete.class
+strategy\CalculadorFrete.class
+strategy\FretePadrao.class
+strategy\FretePromocional.class
+strategy\FreteFracionado.class
+strategy\FreteFixoPorDistancia.class
+strategy\FreteExpresso.class
+strategy\Pedido.class
